@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Hi This is for Navraj2, Navraj1 added some content
+=======
+Hi This is for Navraj2
+Navraj2 added some content
+>>>>>>> dc9d8eb3e4acdc4942f71259684ae2f8f00ed75f
